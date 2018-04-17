@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Dreyar OAC
+  m_Controller: {fileID: 9100000, guid: 654c28ed512997a4a9e7577987dd53fe, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4e2cf86d53284ca4fbc8a20bfe7d77be, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: bd13a35404303f542a44a77c8fb63e0e, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 4bb6002b6aad2484eb2fd4ffe795bb1d, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: bbe3278e26c9cff4aa845f362662ca59, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 3ff20e559c540554885b9c1497c01a5b, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: b699f0074f0c95649b850e2da4544731, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9c5bd78b90a6bd846b94d0893f63fce1, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 08c97b9e0f784b849821bcb0f6cbbc4a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0af08e649c3a84a43a5d080914828832, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 030e2f2d2bd644b46b9001f4545ac22f, type: 2}

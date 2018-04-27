@@ -1,1 +1,1 @@
-# Vuforia_FirstTest
+# Vuforia Fight Style Game
